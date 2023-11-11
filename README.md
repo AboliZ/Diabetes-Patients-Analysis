@@ -32,4 +32,4 @@ Fork, branch, commit, push, and submit pull request.
 
 - Aboli Zagade
 - Email: abolizagade99@gmail.com
-- LinkedIn: [LinkedIn Profile]((https://www.linkedin.com/in/aboli-zagade-683383226)https://www.linkedin.com/in/aboli-zagade-683383226)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aboli-zagade-683383226)https://www.linkedin.com/in/aboli-zagade-683383226)
